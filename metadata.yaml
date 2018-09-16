@@ -1,0 +1,25 @@
+_repo: Modernste-Kriegswaffen-alte-Erfindungen_51851
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Feldhaus, Franz M. (Franz Maria)
+    alias: Feldhaus, Franz Maria
+    birthdate: 1874
+    deathdate: 1959
+    gutenberg_agent_id: '46573'
+    url: http://www.gutenberg.org/2009/agents/46573
+description: ''
+gutenberg_issued: '2016-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51851'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Military art and science -- History'
+- !lcc 'U'
+- GITenberg
+title: Modernste Kriegswaffen - alte Erfindungen
+url: http://www.gutenberg.org/ebooks/51851
